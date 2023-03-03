@@ -1,0 +1,167 @@
+body {
+    background-image: url("pic2.jpg") !important;
+    background-repeat: no-repeat !important;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    color: white;
+}
+.d2 {
+    position: absolute;
+}
+/* .navbar-brand
+{
+    font-size: 50px !important;
+} */
+.he1 {
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-size: 60px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 150px;
+}
+.p1 {
+    font-display: inline;
+    float: left;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-size: 20px;
+    margin-left: 150px;
+    width: 500px;
+}
+.he3 {
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+}
+.he4 {
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+}
+.he2 {
+    margin-top: 60px;
+    margin-right: 400px;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-size: 40px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+
+    display: inline;
+    float: right;
+}
+.pic4 {
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 1200px;
+}
+.he6 {
+    color: yellow;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+}
+.he5 {
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+}
+.bigpp {
+    margin-left: 100px;
+    width: 700px;
+}
+.bigp {
+    margin-left: 100px;
+    width: 630px;
+}
+.me {
+    border-color: white;
+}
+.pic_3 {
+    margin-left: 100px;
+    width: 600px;
+}
+.tag1 {
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+.p2 {
+    list-style: square;
+    margin-right: 270px;
+    display: inline;
+    float: right;
+}
+.cc {
+    color: yellow;
+}
+.he44 {
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.p4 {
+    margin-left: 100px;
+    font-size: large;
+    font-family: "Times New Roman", Times, serif;
+    list-style: square;
+    margin-right: 270px;
+    /* display: inline;
+    float: right; */
+}
+.p3 {
+    margin-left: 100px;
+    font-size: large;
+    font-family: "Times New Roman", Times, serif;
+    list-style: square;
+    margin-right: 270px;
+    display: inline;
+    float: right;
+}
+/* .aa{
+
+    background-color: transparent;
+    background-image: url('pic2.jpg') !important;
+    background-repeat: no-repeat !important;
+    background-color: #474343 !important;
+    background-size: cover !important;
+
+} */
+.t {
+    color: white !important;
+}
+.c {
+    background-color: white;
+}
+.navbar {
+    padding: 0 0 6rem;
+}
+.navbar-brand {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-link {
+    /* font-size: 1.2rem; */
+    font-family: "Montserrat", sans-serif;
+    font-weight: lighter;
+}
+.nav-item {
+    padding: 0 18px;
+}
